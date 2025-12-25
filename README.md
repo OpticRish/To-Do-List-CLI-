@@ -23,5 +23,7 @@ This project is designed for beginners to practice Python fundamentals like list
 5. Close App
 
 Select an option (1-5): 1
+
 What needs to be done? Finish Python homework
+
 Success: Task added to the list!
