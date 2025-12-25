@@ -14,4 +14,14 @@ This project is designed for beginners to practice Python fundamentals like list
 
 ---
 
-## 📂 Project Structure
+##Example Usage
+=== To Do List App ===
+1. Add a New Task
+2. View All Tasks
+3. Delete a Task
+4. Save Tasks to CSV
+5. Close App
+
+Select an option (1-5): 1
+What needs to be done? Finish Python homework
+Success: Task added to the list!
